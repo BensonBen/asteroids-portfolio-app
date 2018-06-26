@@ -1,2 +1,1 @@
-header("Location: ./app/index.html");
-die();
+<?php header( 'Location: ./app/index.html' ) ;  ?>
